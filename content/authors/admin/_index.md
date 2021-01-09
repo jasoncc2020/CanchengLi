@@ -53,7 +53,7 @@ social:
   link: https://twitter.com/A0rD7rjImBxyn7e
 - icon: publons
   icon_pack: ai
-  link: https://publons.com/researcher/1467632/yongji-guan/  
+  link: https://publons.com/researcher/3078077/cancheng-li/ 
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=N1NI_k0AAAAJ&hl=en&oi=ao
@@ -69,6 +69,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Cancheng_Li
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/yongji-guan2/
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -94,4 +97,3 @@ From 12/2019-09/2018, I am a guest student at the the [Shenzhen Institute of Adv
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
