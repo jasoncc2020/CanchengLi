@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cancheng Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Beihang University
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,24 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning and pattern recognition
+- Computational Neuroscience
+- Brain Network and Brain-Computer Interface
+- Computer Diagnosis and Prediction
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in biomedical engineering  
+    institution: Beihang University
+    year: 2025
+  - course: MEng in Electronic and communication engineering
+    institution: Lanzhou University
+    year: 2020
+  - course: BSc in Electronic information engineering
+    institution: Wuyiy University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,10 +53,13 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jasoncc2020/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/cancheng-li-8935921b2/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-9210-3530 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
