@@ -96,4 +96,5 @@ Before joining Beihang, I received a Masters Degree (2017-2020) from the [Ubiqui
 From 12/2019-09/2018, I am a guest student at the the [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences]( http://www.siat.ac.cn/ ), China.
 
 
-{{< icon name="cv" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
