@@ -19,13 +19,13 @@ date_format = "Jan, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Postdoc Research Fellow"
-  company = "Department of Chemistry, Imperial College London"
-  company_url = "https://www.imperial.ac.uk/"
-  location = "White City, London, United Kingdom"
-  date_start = "2019-10-01"
+  title = "Guest student"
+  company = "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+  company_url = "http://www.siat.cas.cn/jgsz2016/jgdh2016/kybm2016/jcs2016/yjdy2016/rjkzyjs2016/zxtd_125522/"
+  location = "Shenzhen, China"
+  date_start = "2018-10-01"
   date_end = ""
-  description = """I am working currently as a postdoctoral research fellow at department of chemistry in Imperial College London, advised by Prof. Tom Welton."""
+  description = """I am working as a Guest student at Human-Machine Control Center, Institute of Integration, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, advised by P. Xi."""
 
 [[experience]]
   title = "International Postdoc Research Fellow"
