@@ -23,7 +23,7 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
+  name = "Matlab"
   parcent = "90%"
  
 [[feature]]
@@ -50,11 +50,6 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Photography"
   parcent = "60%"
   
-[[feature]]
-  icon = "Matlab"
-  icon_pack = "fab"
-  name = "Matlab"
-  parcent = "50%"  
   
 
 +++
