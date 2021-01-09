@@ -100,10 +100,10 @@ highlight_name: false
 Hi, I am currently a PhD candidate in the International Cross Innovation Institute of [Beihang University]( https://www.buaa.edu.cn/ )
 . My research interests cover computational neuroscience, neural modeling, inverse problems and brain network analysis. 
 
-Before joining Beihang, I received a Masters Degree (2017-2020) from the [Ubiquitous Awareness and Intelligence Solutions lab]( http://uais.lzu.edu.cn/ ), [Department of Information Science and Engineering, Lanzhou University, China]( http://xxy.lzu.edu.cn ), supervised by Hong Peng and Bin Hu. I received a bachelor's degree from the Department of Information Science and Engineering, Wuyi University, China in 2017.
+Before joining Beihang, I received a Masters Degree (2017-2020) from the [Ubiquitous Awareness and Intelligence Solutions lab]( http://uais.lzu.edu.cn/ ), [Department of Information Science and Engineering, Lanzhou University, China]( http://xxy.lzu.edu.cn ), supervised by [Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). I received a bachelor's degree from the Department of Information Science and Engineering, Wuyi University, China in 2017.
 
 From 12/2019-09/2018, I am a guest student at the the [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences]( http://www.siat.ac.cn/ ), China.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
