@@ -75,7 +75,11 @@ social:
 - icon: weibo
   icon_pack: fab
   link: https://weibo.com/u/1706073874/home?wvr=5
+- icon: facebook
+  icon_pack: fab
+  link: https://m.facebook.com/
 
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
