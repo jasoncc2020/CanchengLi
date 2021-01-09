@@ -49,6 +49,13 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon_pack = "fas"
   name = "Photography"
   parcent = "60%"
+  
+[[feature]]
+  icon = "Matlab"
+  icon_pack = "fab"
+  name = "Matlab"
+  parcent = "50%"  
+  
 
 +++
 
