@@ -72,7 +72,7 @@ social:
 - icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/profiles/yongji-guan2/
-- icon: fa-weibo
+- icon: weibo
   icon_pack: fab
   link: https://weibo.com/u/1706073874/home?wvr=5
 
