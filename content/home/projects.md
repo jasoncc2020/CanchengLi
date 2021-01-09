@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: EEG
     tag: Deep Learning
-  - name: Other
+  - name: EEG epilepsy detection
     tag: Demo
 
 design:
