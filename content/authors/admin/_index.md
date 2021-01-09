@@ -78,6 +78,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://m.facebook.com/
+- icon: info-circle
+  icon_pack: fas
+  link: https://www.semanticscholar.org/author/Cancheng-Li/95251781
 
   
 # Link to a PDF of your resume/CV from the About widget.
