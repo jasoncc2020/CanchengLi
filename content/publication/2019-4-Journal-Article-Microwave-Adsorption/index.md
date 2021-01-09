@@ -1,14 +1,14 @@
 ---
-title: "11. Microwave-Absorbing Properties of Room-Temperature Ionic Liquids (Times cited = 5)"
+title: "A Gait Assessment Framework for Depression Detection Using Kinect Sensors (Times cited = 0)"
 authors:
 # - admin
-- Fulong Yang, Jianhao Gong, E Yang, **Yongii Guan**, Xiaodong He, Shimin Liu, Xiaoping Zhang, Youquan Deng
+- Tao Wang, Cancheng Li, Chunyun Wu, Jieqiong Sun, Hong Peng, Xiping Hu, Bin Hu
 - Journal of Physics D-Applied Physics, 2019, 52(15), 155302
-date: "2019-04-10"
-doi: "10.1088/1361-6463/ab016c"
+date: "2020-09-07"
+doi: "10.1109/JSEN.2020.3022374"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-10"
+publishDate: "2021-02-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,13 +17,13 @@ publishDate: "2019-04-10"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Physics D: Applied Physics, 2019, 52(15), 155302"
-publication_short: "J Phys D: Appl Phys"
+publication: "IEEE Sensors Journal, 2021, 21(2), 3260"
+publication_short: "IEEE Sensors Journal"
 
-abstract: Here, the microwave-absorbing properties of 1-ethyl-3-methylimidazolium and 1-butyl3-methylimidazolium ([E and BMIm]$^{+}$-based) room-temperature ionic liquids (ILs) with different anions were systematically investigated by measuring dielectric properties in the 1–14 GHz microwave-frequency range. First, the dielectric properties of the [E and BMIm]$^{+}$-based ILs were studied with a typical open-ended coaxial probe system. The results showed that the real part of permittivity ε' values decreased from 13 to 4 and the values of loss tangent decreased from 5.91 to 0.24, meaning that ILs displayed high dielectric-loss characteristics at microwave-frequency ranges. Furthermore, it was found that the conductivity loss was dominant for dielectric loss in the low-frequency band, and the polarization loss played a major role in high-frequency bands. For the same anion ILs with different cations, the permittivity became higher as the length of the alkyl chain decreased. The absorption properties of [E and BMIm]$^{+}$-based ILs could be obtained based on their dielectric properties, and found the ILs absorption bands were mainly concentrated in the C band and X band. It was noted that the maximum reflection loss (RL) of [BMIm][NTf$_{2}$] with a thickness of 4 mm reached −27.6 dB at 8.73 GHz, and the bandwidth of an RL less than −10 dB could be up to 4.3 GHz. The absorption peak frequency of the ILs gradually shifted to lower frequencies with increasing temperature and coating thickness, which might be caused by the change in impedance matching.
+abstract: As depression becomes more commonplace in society, the timely and effective detection of the signs of depression for its prevention and early treatment becomes more important. Gait analysis can provide a contactless and low-cost method for depression diagnosis. In this study, we propose a novel gait assessment framework to implement non-intrusive, real-time and automatic depression detection using Kinect, an inexpensive and portable depth sensor. We focus on extracting a novel time-domain and frequency-domain feature (TF-feature) and a spatial geometric feature (SG-feature), and investigating the effectiveness of fused features in detecting depression for the non-contact gait data. A pseudo-velocity model is firstly built to analyze the gait abnormalities of individuals with depression in the time domain. Subsequently, we perform the power spectral density (PSD) analysis on the model to extract the TF-feature. Then, the covariance matrices and the symmetric Stein divergence (S-divergence) are leveraged to obtain the SG-feature, which is fused with TF-feature to form new features for classification. The experimental results on 95 subjects (43 scored-depressed and 52 non-depressed individuals) show that the proposed method achieves a good classification accuracy of 93.75%, has superior performance compared to several other methods, and significantly alleviates the impact of individual differences. These results indicate the efficacy and robustness of the proposed framework for depression detection.
 
 # Summary. An optional shortened abstract.
-summary: The microwave-absorbing properties of [E and BMIm]$^{+}$-based ionic liquids with different anions were systematically investigated by measuring dielectric properties in the 1–14 GHz microwave-frequency range.
+summary: Gait analysis offers a new low-cost and contactless method for depression detection. Due to the development of inexpensive and portable depth sensors such as Microsoft Kinect, the advantages of gait analysis in the detection of depression are further amplified. Therefore, in this paper, a novel framework is proposed for implementing non-intrusive, real-time and automatic depression detection from the gait data collected by Microsoft Kinect. In contrast to previous methods that focused only on specific abnormal gait characteristics, we innovatively propose a pseudo-velocity model to describe the slower cadence and motor retardation exhibited by gait abnormalities in individuals with depression; the subsequently extracted TF-features can well support depression detection. In addition, to capture complex and irregular gait spatial information, we encode joint positional and angular information in a covariance-based descriptor, utilizing the S-divergence on the SPD space to obtain the SG-feature. The new features obtained after the fusion of these two types of features are effective in characterizing and indicating depression. The proposed gait assessment framework for depression detection using Kinect could motivate more intelligent, convenient and objective applications based on depth sensors in the field of automatic mental health.
 
 tags:
 - Journal and Conference Articles
