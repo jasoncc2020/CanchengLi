@@ -1,5 +1,5 @@
 ---
-title: "A Gait Assessment Framework for Depression Detection Using Kinect Sensors (Times cited = 0)"
+title: "1. A Gait Assessment Framework for Depression Detection Using Kinect Sensors (Times cited = 0)"
 authors:
 # - admin
 - Tao Wang, Cancheng Li, Chunyun Wu, Jieqiong Sun, Hong Peng, Xiping Hu, Bin Hu
