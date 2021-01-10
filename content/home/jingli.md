@@ -24,12 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 item:
-- certificate_url: https://www.sciencedirect.com/journal/isa-transactions
+- certificate_url: https://iopscience.iop.org/journal/1742-6596
   date_end: ""
-  date_start: "2020-01-01"
+  date_start: "2020-02-01"
   description: ""
+  organization: IOP Science
+  organization_url: https://iopscience.iop.org/journal/1742-6596
   title: Join UAISLab to start a research career!
-  url: ""
+  url: ""  
 
 
   
