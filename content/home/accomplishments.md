@@ -39,8 +39,25 @@ item:
   description: ""
   organization: IEEE
   organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
-  title: ISA Transactions Journal Review
+  title: IEEE ACCESS Journal Review
   url: ""
 
+- certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
+  date_end: ""
+  date_start: "2019-01-01"
+  description: ""
+  organization: IEEE
+  organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
+  title: Co-IEEE Transactions on Affective Computing Journal Review
+  url: ""
+  
+- certificate_url: https://iopscience.iop.org/journal/1742-6596
+  date_end: ""
+  date_start: "2020-02-01"
+  description: ""
+  organization: IOP Science
+  organization_url: https://iopscience.iop.org/journal/1742-6596
+  title: Conference Review
+  url: ""  
   
 ---
