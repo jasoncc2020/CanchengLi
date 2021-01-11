@@ -19,9 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Machine Learning and pattern recognition
-- Computational Neuroscience
-- Brain Network and Brain-Computer Interface
-- Computer Diagnosis and Prediction
+- Computational Neuroscience and brain network analysis
+- neural modeling and inverse problems
+- Brain-Computer Interface
 
 
 # Education to show in About widget
@@ -30,10 +30,10 @@ education:
   - course: PhD in biomedical engineering  
     institution: Beihang University
     year: 2025
-  - course: MEng in Electronic and communication engineering
+  - course: MEng in electronic and communication engineering
     institution: Lanzhou University
     year: 2020
-  - course: BSc in Electronic information engineering
+  - course: BSc in electronic information engineering
     institution: Wuyiy University
     year: 2017
 
@@ -97,12 +97,11 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I am currently a PhD candidate in the International Cross Innovation Institute of [Beihang University]( https://www.buaa.edu.cn/ )
-. My research interests cover computational neuroscience, neural modeling, inverse problems and brain network analysis. 
+Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ). My research interests cover computational neuroscience, neural modeling, inverse problems and brain network analysis. 
 
-Before joining Beihang, I received a Masters Degree (2017-2020) from the [Ubiquitous Awareness and Intelligence Solutions lab]( http://uais.lzu.edu.cn/ ), [Department of Information Science and Engineering, Lanzhou University, China]( http://xxy.lzu.edu.cn ), supervised by [Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). I received a bachelor's degree from the Department of Information Science and Engineering, Wuyi University, China in 2017.
+Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), [school of information science and engineering, Lanzhou University, China]( http://xxy.lzu.edu.cn ), supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). I received a bachelor's degree from the [department of information science and engineering, Wuyi university, china]( https://www.wyu.edu.cn/znzzxb/ ) in 2017.
 
-From 12/2019-09/2018, I am a guest student at the the [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences]( http://www.siat.ac.cn/ ), China.
+From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of advanced technology, chinese academy of sciences]( http://www.siat.ac.cn/ ), china.
 
 
 
