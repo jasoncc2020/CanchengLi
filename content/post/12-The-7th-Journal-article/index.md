@@ -37,11 +37,5 @@ gallery_item:
   image: 2014-2.png
 ---
 
-The 7th Journal paper **Ultrabroadband metamaterial absorbers based on ionic liquids** is accepted by **Appl Phys A**.
 
-{{< gallery >}}
-
-## License
-
-Copyright 2017-2020 Cancheng Li
 
