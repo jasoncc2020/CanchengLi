@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Automatic detection system for epilepsy degenerative diseases
-    tag: Automatic detection system for epilepsy degenerative diseases
+    tag: Epilepsy
   - name: EEG Depression Detection
     tag: EEG Depression Detection
   - name: EEG Brain Network
