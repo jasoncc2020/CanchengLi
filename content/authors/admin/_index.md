@@ -2,6 +2,11 @@
 # Display name
 title: Cancheng Li
 
+# resume download button
+btn:
+- url : "https://yongjiguan.github.io/files/Curriculum%20Vitae.pdf"
+  label : "Download CV"
+
 # Is this the primary user of the site?
 superuser: true
 
