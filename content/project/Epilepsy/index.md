@@ -3,7 +3,7 @@ title: Epilepsy
 summary: Automatic detection system for epilepsy degenerative diseases.
 tags:
 - Epilepsy
-date: "2019-03-01"
+date: "2018-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/A0rD7rjImBxyn7e
 url_code: ""
 url_pdf: ""
 url_slides: ""
