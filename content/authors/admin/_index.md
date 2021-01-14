@@ -81,7 +81,9 @@ social:
 - icon: info-circle
   icon_pack: fas
   link: https://www.semanticscholar.org/author/Cancheng-Li/95251781
-
+- icon: zhihu
+  icon_pack: fas
+  link: https://www.zhihu.com/people/wo-zhi-xiang-an-jing-60
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
