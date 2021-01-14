@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Academic News"
-subtitle = "Everything in this world is temporary and eternal"
+subtitle = "2017-2020"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
