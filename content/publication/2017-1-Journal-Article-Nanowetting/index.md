@@ -1,5 +1,5 @@
 ---
-title: "1. A novel automatic classification detection for epileptic seizure based
+title: "2. A novel automatic classification detection for epileptic seizure based
 on dictionary learning and sparse representation (Times cited = 1)"
 authors:
 - Hong Peng#, Cancheng Li#, Jinlong Chao, Tao Wang, Chengjian Zhao, Xiaoning Huo, Bin Hu
