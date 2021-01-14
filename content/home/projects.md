@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Automatic detection system for epilepsy degenerative diseases
+  - name: Automatic detection
     tag: Epilepsy
   - name: EEG Depression Detection
     tag: EEG Depression Detection
