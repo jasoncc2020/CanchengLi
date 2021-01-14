@@ -1,13 +1,13 @@
 ---
-title: 'The 7th Journal Article'
+title: 'Join UAISLab to start a research career!'
 subtitle: ''
-summary: The 7th Journal paper Ultrabroadband metamaterial absorbers based on ionic liquids is accepted by Appl Phys A.
+summary: 
 authors:
 - admin
 tags:
 - Academic News
 categories: []
-date: "2019-01-24"
+date: "2017-03-18"
 lastmod: "2019-01-24"
 featured: false
 draft: false
@@ -43,5 +43,5 @@ The 7th Journal paper **Ultrabroadband metamaterial absorbers based on ionic liq
 
 ## License
 
-Copyright 2014-2020 Yongji Guan
+Copyright 2017-2020 Cancheng Li
 
