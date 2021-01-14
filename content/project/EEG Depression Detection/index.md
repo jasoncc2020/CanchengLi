@@ -1,5 +1,5 @@
 ---
-title: Epilepsy
+title: EEG Depression Detection
 summary:  Gait Assessment for Depression Detection for contemporary college students.
 tags:
 - EEG Depression Detection
