@@ -27,12 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: EEG
-    tag: Deep Learning
+  - name: Automatic detection system for epilepsy degenerative diseases
+    tag: Automatic detection system for epilepsy degenerative diseases
   - name: EEG Depression Detection
-    tag: Demo
+    tag: EEG Depression Detection
   - name: EEG Brain Network
-    tag: Demo1
+    tag: EEG Brain Network
+  - name: Others
+    tag: Other Projects
 
 
 design:
