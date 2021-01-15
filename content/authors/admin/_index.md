@@ -102,5 +102,5 @@ From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of adv
 
 
 
-{{< icon name="file-pdf" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="file-pdf" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resume{{< /staticref >}}.
 
