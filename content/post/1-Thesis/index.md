@@ -1,14 +1,14 @@
 ---
-title: 'Master's degree defense'
-subtitle: ''
-summary: 2020.06, I passed my master's graduation defense at 406 Feiyun Building, Lanzhou University
+title: 'Master's degree defense!'
+subtitle: '2020.06, I passed my master's graduation defense at 406 Feiyun Building, Lanzhou University'
+summary: 
 authors:
 - admin
 tags:
 - Academic News
 categories: []
-date: "2019-10-03"
-lastmod: "2019-10-03"
+date: "2017-03-18"
+lastmod: "2019-01-24"
 featured: false
 draft: false
 
@@ -36,11 +36,4 @@ gallery_item:
   caption: Graduation Photo
   image: 2014-2.png
 ---
-
-2020.06, I passed my master's graduation defense at 406 Feiyun Building, Lanzhou University. 
-{{< gallery >}}
-
-## License
-
-Copyright 2014-2020 Cancheng Li
 
