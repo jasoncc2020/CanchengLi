@@ -31,6 +31,8 @@ content:
     tag: Epilepsy
   - name: EEG Depression Detection
     tag: EEG Depression Detection
+  - name: BCI classification analysis
+    tag: BCI classification analysis
   - name: EEG Brain Network
     tag: EEG Brain Network
   - name: Others
