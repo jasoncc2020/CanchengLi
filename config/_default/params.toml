@@ -110,12 +110,12 @@ office_hours = ["Weekday 09:00 to 12:00 and 14:00 to 18:00", "Saturday all day"]
 
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:guanyj15"},
-  {icon = "weibo", icon_pack = "fab", name = "Chat on Weibo", link = "https://weibo.com/2075115211/profile"},
-  {icon = "zhihu", icon_pack = "fab", name = "Discuss on Zhihu", link = "https://www.zhihu.com/people/Yongji_Guan"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/GuanYongji"},
-  {icon = "facebook", icon_pack = "fab", name = "Chat on Facebook", link = "https://www.facebook.com/yongji.guan.397"},
-  {icon = "linkedin", icon_pack = "fab",name = "Discuss on Linkedin", link = "https://www.linkedin.com/in/yongji-guan-09434b195"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "weibo", icon_pack = "fab", name = "Chat on Weibo", link = "https://weibo.com/u/1706073874/home?wvr=5"},
+  {icon = "zhihu", icon_pack = "fab", name = "Discuss on Zhihu", link = "https://www.zhihu.com/"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://https://twitter.com/A0rD7rjImBxyn7e"},
+  #{icon = "facebook", icon_pack = "fab", name = "Chat on Facebook", link = "https://www.facebook.com/yongji.guan.397"},
+  {icon = "linkedin", icon_pack = "fab",name = "Discuss on Linkedin", link = "https://www.linkedin.com/in/cancheng-li-8935921b2/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   ]
 
 
