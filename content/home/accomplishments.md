@@ -56,7 +56,7 @@ item:
   date_start: "2020-07-01"
   description: ""
   organization: IEEE
-  organization_url: https://iopscience.iop.org/journal/1742-6596
+  organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020
   title: IEEE Journal of Biomedical and Health Informatics 
   url: ""  
   
