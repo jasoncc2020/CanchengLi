@@ -32,8 +32,7 @@ item:
   title: ISA Transactions  
   url: ""
   
-- certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
-  date_end: ""
+- date_end: ""
   date_start: "2018-10-01"
   description: ""
   organization: IEEE
@@ -41,8 +40,7 @@ item:
   title: IEEE ACCESS  
   url: ""
 
-- certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
-  date_end: ""
+- date_end: ""
   date_start: "2019-01-01"
   description: ""
   organization: IEEE
@@ -50,8 +48,7 @@ item:
   title: Co-IEEE Transactions on Affective Computing Journal 
   url: ""
   
-- certificate_url: https://iopscience.iop.org/journal/1742-6596
-  date_end: ""
+- date_end: ""
   date_start: "2020-07-01"
   description: ""
   organization: IEEE
