@@ -24,8 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 item:
-- certificate_url: https://www.sciencedirect.com/journal/isa-transactions
-  date_end: ""
+- date_end: ""
   date_start: "2020-01-01"
   description: ""
   organization: Sciencedirect
