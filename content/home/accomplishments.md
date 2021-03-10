@@ -30,7 +30,7 @@ item:
   description: ""
   organization: Sciencedirect
   organization_url: https://www.sciencedirect.com/journal/isa-transactions
-  title: ISA Transactions Journal Review
+  title: ISA Transactions  
   url: ""
   
 - certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
@@ -39,7 +39,7 @@ item:
   description: ""
   organization: IEEE
   organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639
-  title: IEEE ACCESS Journal Review
+  title: IEEE ACCESS  
   url: ""
 
 - certificate_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
@@ -48,16 +48,16 @@ item:
   description: ""
   organization: IEEE
   organization_url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369
-  title: Co-IEEE Transactions on Affective Computing Journal Review
+  title: Co-IEEE Transactions on Affective Computing Journal 
   url: ""
   
 - certificate_url: https://iopscience.iop.org/journal/1742-6596
   date_end: ""
-  date_start: "2020-02-01"
+  date_start: "2020-07-01"
   description: ""
-  organization: IOP Science
+  organization: IEEE
   organization_url: https://iopscience.iop.org/journal/1742-6596
-  title: Conference Review
+  title: IEEE Journal of Biomedical and Health Informatics 
   url: ""  
   
 ---
