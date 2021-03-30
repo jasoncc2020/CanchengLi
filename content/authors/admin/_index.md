@@ -34,7 +34,7 @@ education:
     institution: Lanzhou University
     year: 2020
   - course: BSc in electronic information engineering
-    institution: Wuyiy University
+    institution: Guangdong University of Technology
     year: 2017
 
 # Social/Academic Networking
