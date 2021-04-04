@@ -1,5 +1,5 @@
 ---
-title: "3. Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality  (Times cited = 4)"
+title: "3. Depression Prevalence in Postgraduate Students and Its Association With Gait Abnormality  (Times cited = 5)"
 authors:
 - Jing Fang, Tao Wang, Cancheng Li
 - IEEE ACCESS, 2021, 21 (3), 3260-3270
@@ -13,7 +13,7 @@ publishDate: "2019-12-02"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE ACCESS, 2019, 12(2)"
