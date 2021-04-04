@@ -94,9 +94,9 @@ email: ""
 highlight_name: false
 ---
 
-Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ). My research interests cover computational neuroscience, neural modeling, inverse problems and brain network analysis. 
+Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ), supervised by Prof. Jicong Zhang. My research interests cover computational neuroscience, neural modeling, inverse problems and brain network analysis. 
 
-Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), school of information science and engineering, Lanzhou University, China, supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). 
+Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), school of information science and engineering, Lanzhou University, China, supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ).
 
 From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of advanced technology, chinese academy of sciences]( http://www.siat.ac.cn/ ), china.
 
