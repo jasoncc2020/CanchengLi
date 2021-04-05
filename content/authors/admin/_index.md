@@ -18,9 +18,9 @@ bio: My research interests cover computational neuroscience, neural modeling, in
 
 # Interests to show in About widget
 interests:
-- Biomedical Engineering: Brain-Computer Interfaces, Biomedical Signal Processing, 
-- Computational Intelligence: computational neuroscience, inverse problems and brain network analysis
-- Control: Machine learning and pattern recognition
+- Brain-Computer Interfaces, Biomedical Signal Processing, 
+- computational neuroscience, inverse problems and brain network analysis
+- Machine learning and pattern recognition
 
 
 # Education to show in About widget
