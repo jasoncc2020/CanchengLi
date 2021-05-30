@@ -64,7 +64,7 @@ social:
   link: https://www.linkedin.com/in/cancheng-li-8935921b2/
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-9210-3530 
+  link: https://orcid.org/0000-0002-1952-4547
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Cancheng_Li
