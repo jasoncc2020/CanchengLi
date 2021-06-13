@@ -27,7 +27,7 @@ item:
 - date_end: ""
   date_start: "2020-01-01"
   description: ""
-  organization: Sciencedirect
+  organization: 
   organization_url: https://www.sciencedirect.com/journal/isa-transactions
   title: ISA Transactions  
   url: ""
