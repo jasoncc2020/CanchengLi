@@ -25,7 +25,7 @@ date_format: Jan 2006
 
 item:
 - date_end: ""
-  date_start: ""
+  date_start: "2019-10-01"
   description: ""
   organization: 
   organization_url: https://www.sciencedirect.com/journal/isa-transactions
