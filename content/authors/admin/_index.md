@@ -92,6 +92,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+您好，我是李灿城，目前在北京航空航天大学攻读博士学位，在加入北航之前，我在中国兰州大学普适计算与智能感知实验室获得硕士学位，受彭宏教授和胡斌教授的监督，在2018年到2019年，在中国科学院深圳技术研究院集成所人机控制中心访问。他的致力于发展鲁棒神经信号解码方法，以及精准的神经调控技术。
 
 Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ), supervised by Prof. Jicong Zhang. Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), school of information science and engineering, Lanzhou University, China, supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of advanced technology, chinese academy of sciences]( http://www.siat.ac.cn/ ), china.
 
