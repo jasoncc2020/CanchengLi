@@ -28,13 +28,13 @@ education:
   courses:
   - course: PhD in biomedical engineering  
     institution: Beihang University
-    year: 2020-2024
+    year: 2024
   - course: MEng in electronic and communication engineering
     institution: Lanzhou University
-    year: 2017-2020
+    year: 2020
   - course: BSc in electronic information engineering
     institution: Wuyi Technology
-    year: 2013-2017
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
