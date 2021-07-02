@@ -92,7 +92,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ), supervised by Prof. Jicong Zhang. Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), school of information science and engineering, Lanzhou University, China, supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of advanced technology, chinese academy of sciences]( http://www.siat.ac.cn/ ), china.
+Hi, I am currently a PhD candidate in the [Beihang University]( https://www.buaa.edu.cn/ ), supervised by [Prof. Jicong Zhang](http://shi.buaa.edu.cn/zhangjicong/en/index.htm). Before joining Beihang, I received the masters Degree (2017-2020) from the [ubiquitous awareness and intelligence solutions lab (UAIS Lab)]( http://uais.lzu.edu.cn/ ), school of information science and engineering, Lanzhou University, China, supervised by [Prof. Hong Peng]( http://uais.lzu.edu.cn/en/?p=902 ) and [Prof. Bin Hu]( http://uais.lzu.edu.cn/en/?p=959 ). From 12/2019-09/2018, I am a guest student at the the [shenzhen institute of advanced technology, chinese academy of sciences]( http://www.siat.ac.cn/ ), china.
 
 您好，我叫李灿城，目前在北京航空航天大学生物医学与工程学院&国际交叉科学研究院攻读博士学位，为博士一年级候选人，受张冀聪教授监督，在2017年到2020年期间，我在中国兰州大学普适计算与智能感知实验室获得硕士学位，受彭宏教授和胡斌教授的监督，在2018年到2019年，在中国科学院深圳技术研究院集成所人机控制中心访问。目前致力于发展生物医学信号处理、计算神经科学、逆问题和脑网络分析机器学习和模式识别相关研究。
 
