@@ -1,5 +1,5 @@
 ---
-title: "1. A Gait Assessment Framework for Depression Detection Using Kinect Sensors  (Times cited = 2)"
+title: "1. A Gait Assessment Framework for Depression Detection Using Kinect Sensors  (Times cited = 3)"
 authors:
 - Tao Wang, Cancheng Li
 - IEEE Sensors Journal, 2021, 21 (3), 3260-3270
