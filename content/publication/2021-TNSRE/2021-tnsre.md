@@ -1,8 +1,8 @@
 ---
-title: "4. Classification of First-episode Schizophrenia, Chronic Schizophrenia and Healthy Control Based on Brain Network of Mismatch Negativity by Graph Neural Networky  (Times cited = 10)"
+title: "1. Classification of First-episode Schizophrenia, Chronic Schizophrenia and Healthy Control Based on Brain Network of Mismatch Negativity by Graph Neural Networky  (Accept)"
 authors:
 - Qi Chang, Cancheng Li
-- IEEE ACCESS, 2021, 21 (3), 3260-3270
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering
 date: "2021-07-16"
 doi: "IEEETNSRE"
 
